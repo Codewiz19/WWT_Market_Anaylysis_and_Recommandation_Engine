@@ -1,6 +1,5 @@
 # WWT Market Analysis and food Recommandation problem 
-
-# WWT Unravel 2025: "Wings R Us" Recommendation Engine
+ 
 
 [cite_start]This repository contains the complete solution for the WWT Unravel 2025 competition[cite: 1, 2]. [cite_start]The project focuses on developing a recommendation algorithm for the quick-service restaurant (QSR) client, "Wings R Us," to enhance their digital checkout experience[cite: 6, 8, 23].
 
